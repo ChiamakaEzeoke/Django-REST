@@ -2,14 +2,14 @@
 This project is implemented to create a simple API with ID, name and date created.
 With this project, you can perform the following:
 - View created APIs in JSON format
-- Use the POST method to add to the APIs through an API URL '/add'
+- Use the POST method to add to the APIs through an API URL 'localhost/add'
 
 
-##Features
+## Features
 - Django
 - Django REST framework
 
-##Result
+## Result
 
 
 - Step 1: Create a virtual environment with the following command:
@@ -29,5 +29,4 @@ python manage.py runserver
 Note: Ensure you are in the same directory that has the manage.py file
 
 
-- Step 5: Open link on your web browser with localhost which gives access to view the created APIs in JSON format:
-An implemwentation of APIs
+- Step 5: Open link on your web browser with localhost which gives access to view the created APIs in JSON format.
