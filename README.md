@@ -30,3 +30,4 @@ Note: Ensure you are in the same directory that has the manage.py file
 
 
 - Step 5: Open link on your web browser with localhost which gives access to view the created APIs in JSON format:
+An implemwentation of APIs
